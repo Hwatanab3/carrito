@@ -465,6 +465,7 @@ button {
     grid-template-rows: 1fr;
     column-gap: var(--sp-1);
     margin-bottom: var(--sp-1);
+    font-size: var(--sp-0-75);
 }
 
 .article__image {
@@ -492,6 +493,7 @@ button {
 
 .article__title {
     grid-column: span 4;
+    font-size: .75rem;
 }
 
 .article__quantity {
